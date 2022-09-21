@@ -141,7 +141,7 @@ Manajemen Memori Terdapat 2 (dua) manajemen memori yaitu:
 ### **Manajemen Memory Pada Windows Menggunakan Disk Management**
 <p align="justify">Disk management adalah Utilitas Microsoft Windows yang Pertama kali Diperkenalkan di Windows XP sebagai pengganti dari Fdisk Command. Fasilitas Disk Management ini Memungkinkan User untuk Melihat dan Mengatur Disk Drives yang Terpasang di Komputer mereka dan Partisi-partisi yang terasosiasi dengan Drive-drive tersebut. Seperti yang bisa dilihat pada Gambar dibawah ini, setiap Drive akan ditampilkan disertai dengan Layout, Type, File System, Status, Capacity, Free Space, % Free, dan Fault Tolerance.
 
-<p align="center"><img src="gambar15.JPG">
+<p align="center"><img src="foto15.JPG">
 
 Cara membuka disk management pada windows :
 1. Buka Control Panel
